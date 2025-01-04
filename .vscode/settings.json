@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "numbers": "c",
+        "random": "c",
+        "math.h": "c",
+        "functional": "c",
+        "limits": "c",
+        "stdlib.h": "c",
+        "algorithm": "c",
+        "cs50.h": "c",
+        "string": "c",
+        "string.h": "c",
+        "time.h": "c",
+        "cmath": "c",
+        "string_view": "c",
+        "type_traits": "c",
+        "system_error": "c",
+        "array": "c",
+        "deque": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "initializer_list": "c",
+        "limits.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
